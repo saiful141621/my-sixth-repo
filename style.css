@@ -5,3 +5,29 @@ h1{
 p{
     color:rgb(107, 142, 35)
 }
+#munu {
+    border:2px solid red;
+    border-radius:2px;
+    background-color:black;
+    height:400px;
+    width:500px;
+}
+#muna{
+    background-color:greenyellow;
+    border:2px solid red;
+}
+
+h3{
+    color:mediumblue;
+}
+.tuna{
+    border:2px solid blue;
+    border-radius:10px;
+    background-color:mediumseagreen;
+    font-style:inherit;
+}
+#barkot{
+    color:maroon;
+    font-size:20px;
+    
+}
